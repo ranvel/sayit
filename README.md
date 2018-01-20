@@ -1,4 +1,4 @@
-Reads "<p>" elements on the page. 
+Reads `<p>` elements on the page. 
 
 ![](firefox-extension.gif) 
 
